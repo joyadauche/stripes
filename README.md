@@ -10,7 +10,7 @@ Facial keypoints include points around the eyes, nose, and mouth on a face and a
 
 Some examples of these keypoints are pictured below.
 
-![Center Image](images-readme/key_pts_example.png)
+![Center Image](images/key_pts_example.png)
 
 ## Files
 
