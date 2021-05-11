@@ -3,4 +3,4 @@ saved_models/
 __pycache__/
 annotations/
 .DS_Store
-workspace_utils
+.workspace_utils
